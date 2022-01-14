@@ -1,0 +1,6 @@
+use ctrl+shift+i to open console in a websites
+in console u use the js 
+blue colour ans in console means that is a number
+and black colour in console means that is string
+ <-------to take user input---->
+var age = window.prompt("Enter your age: ");
