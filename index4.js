@@ -52,7 +52,7 @@ for (var i = 0; i < arr2.length; i++) {
 var arr2 =[2,4,6,8,10]
 for (var i = 0; i < arr2.length; i++) {
     if (i == 3){
-        continue; // only not print for i=3  mane 8  print hbe nh
+        continue; // only not print for i=3  mane 8 78 print hbe nh
     }
      console.log(arr2[i]);
 }
